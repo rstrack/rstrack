@@ -8,8 +8,8 @@
   
 <a href="https://www.youtube.com/channel/UCdANwBkR1nzYKSZe8JlCwYw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-<a href="https://www.twitch.tv/strackinado/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/strackinado/""https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"><img src= target="_blank"></a>
    
-<a href="https://steamcommunity.com/id/strackinado_/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/strackinado_/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  
 </div>
