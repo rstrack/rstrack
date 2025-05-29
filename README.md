@@ -41,8 +41,8 @@
 
 ## 
 
-<div style="display: inline_block">
+<center>
   <a href="https://github.com/rstrack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rstrack&show_icons=true&theme=react"/>
-  <img height="180em" src=https://github-readme-streak-stats.herokuapp.com/?user=rstrack&theme=react&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rstrack&show_icons=true&theme=react"/>
+  <img height="170em" src=https://github-readme-streak-stats.herokuapp.com/?user=rstrack&theme=react&hide_border=true"/>
 </div>
